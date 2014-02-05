@@ -14,6 +14,7 @@ using namespace std;
 int main() {
 	cout << "Hello World! - English" << endl; //Coders
 	cout << "Ciao Mondo! - Italian" << endl; //Jason Hoang
+	cout << "Ola Mundo! - Portuguese << endl; //needs an accent on the a
 }
 
 
