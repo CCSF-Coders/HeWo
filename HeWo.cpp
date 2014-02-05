@@ -14,11 +14,10 @@ using namespace std;
 int main() {
 	cout << "Hello World! - English" << endl; //Coders
 	cout << "Ciao Mondo! - Italian" << endl; //Jason Hoang
-	cout << "Ola Mundo! - Portuguese << endl; //needs an accent on the a
-	cout << "Gut Nacht!" << endl;
+	cout << "Ola Mundo! - Portuguese" << endl; //needs an accent on the a
+	cout << "Gut Nacht! - German" << endl;
 
 return 0;
 }
-
 
 
