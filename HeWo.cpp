@@ -14,6 +14,10 @@ using namespace std;
 int main() {
 	cout << "Hello World! - English" << endl; //Coders
 	cout << "Ciao Mondo! - Italian" << endl; //Jason Hoang
+	cout << "Gut Nacht!" << endl;
+
+return 0;
 }
+
 
 
